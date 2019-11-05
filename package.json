@@ -1,0 +1,23 @@
+{
+  "name": "ng-nightsmoon-demo",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.1.0",
+    "@angular/core": "^7.1.0"
+  },
+  "description":"ng-nightsmoon-demo for test",
+  "keywords": [
+    "nightsmoon-demo",
+    "nightsmoon"
+  ],
+  "author":{
+    "name": "NightsMoon",
+    "email": "kingmingjie@outlook.com",
+    "url": "https://github.com/kingmingjie"
+  },
+  "license": "MIT",
+  "repository":{
+    "url": "https://github.com/kingmingjie/ng-nightsmoon-demo"
+  },
+  "homepage": "https://github.com/kingmingjie/ng-nightsmoon-demo"
+}
